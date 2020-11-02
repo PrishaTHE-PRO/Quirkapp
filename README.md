@@ -1,26 +1,34 @@
 🚧🚧🚧
 
-**Quirk is no longer being maintained.**
+**What is the Quirk app and how does it work?**
+Quirk is a companion and self-help app for one of the most common formats of CBT. You may have heard it called "the three column technique" or "catch it, check it, change it." Your brain is really good at making you feel exactly what you're thinking.
 
+**How did Quirk start?**
 Quirk started as a little thing I made for myself as I started doing CBT. As I got better, I needed Quirk less. But at the same time, lots of other people had discovered Quirk and started picking it up. That meant more bug fixes, more features, and just more work to be done. I really couldn't keep it up well, especially with my main focus at the time (my day job). 
 
 So in order to work on it full time, my brother and I tried to turn it into a company. That way we could continue to develop Quirk as a primary focus, even if we didn't need it anymore. 
 
-For awhile, Quirk was going quite well. Lots of people subscribed, we got backed by [Y Combinator](https://www.ycombinator.com/), and we were growing _very_ quickly. 
+**What is CBT (Cognitive Behavioral Therapy0) ?**
+Cognitive Behavioral Therapy (CBT) is the "gold standard" of psychotherapy and is widely considered to be one of the most effective, evidence backed treatments for depression, anxiety, and panic. If you go into just about any therapist or psychiatrist, CBT will likely be one of the first treatments they try.
 
-Unfortunately, in order for the business to work and for us to pay ourselves, we needed folks to be subscribed for a fair amount of time. But that wasn't the case and we honestly should have predicted it given my own experience: as people did better, they unsubscribed. Unfortunately, the opposite was true as well, if folks weren't doing better, but were giving it a good shot, they would stay subscribed longer. 
+**What are the experiences of people who have been through CBT (Cognitive Behavioral Therapy) ?**
+**1**
+(Young Adult, Social Anxiety)
 
-So in order to continue Quirk, Quirk needed to make people feel worse for longer. We didn't want to do that, so we pivoted the company. 
+When I first came here I didn’t want to talk or do anything until it was time to let it out. They taught me the skills of how I should be around others including Emotional Intelligence which is a good thing. Then there’s Fact, Feel and Goal which is very important to use. Dr. Julian taught me the tools or skills of what I should use whenever I’m feeling upset or mad. He taught FFG and then there’s Emotional Intelligence which is very interesting. So now...
 
-**Quirk (the company) is now Room Service.**
+I know what to do whenever it comes to a bad day.
 
-Now-a-days, we're making [Room Service](https://www.roomservice.dev/), which helps folks build multiplayer stuff, like what Figma or Google Docs have. Multiple cursors, CRDTs, sockets, lots of people editing the same thing, that sort of thing. We're still the same commercial entity and such, just making a different product now. If you think multiplayer systems are cool and want to join us, send me an email: `evan @ roomservice . dev`. 
+the future.
+Young Adult
 
-**Make your own Quirk.**
+ 
+**2**
+(Adult, Anxiety & Depression)
 
-If you like Quirk and want it to continue, feel free to fork it. We'd ask that you change the name to avoid confusion. Just heed our warning, becareful about the way you keep yourself afloat. 
+Treatment at ACBT is not like other mental health places. I went to other therapists, and they would listen and not say much. Here it's much different. When something was going on, we would just plug the problem into the NECBT treatment for the day. It was amazing! I feel so much better.
 
-If you want to fork Quirk, you should fork off of [this commit](https://github.com/Flaque/quirk/commit/7a4eabe48414de5edfefcd693e79178120eae142), it's right before we added payments and when the code was the cleanest. 
+Builder, Adult Male - West Hartford
 
 🚧🚧🚧
 
